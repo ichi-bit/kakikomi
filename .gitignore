@@ -1,4 +1,6 @@
+.DS_Store
 kakiapi/node_modules/*
+kakiapi/public/uploads/*
 kakifront/node_modules/*
 kakifront/build/*
 
